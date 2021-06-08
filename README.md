@@ -1,2 +1,2 @@
 # private
-work, education, work ex
+education, certificates
